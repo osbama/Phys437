@@ -17,3 +17,4 @@ Please check for updates throughout the semester
 * Hands-on 5<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys437/blob/main/Hands-On/Hands_on_5.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * Hands-on 6<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys437/blob/main/Hands-On/Hands_on_6.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * Hands-on 7<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys437/blob/main/Hands-On/Hands_on_7.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 8<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys437/blob/main/Hands-On/Hands_on_8.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
